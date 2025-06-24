@@ -96,16 +96,18 @@
     line-height: 1.27;
     text-transform: uppercase;
     color: #FFFFFF;
-    word-spacing: 18px;
+    word-spacing: 19px;
 }
 
 .cover__description-text {
     position: relative;
     z-index: 2;
+    margin-bottom: 50px;
 }
 
 .bet-button {
     padding: 12px 32px 11px 31px;
+    margin-bottom: 50px;
     position: relative;
     z-index: 2;
     background: transparent;
