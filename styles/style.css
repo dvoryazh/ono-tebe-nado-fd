@@ -26,6 +26,7 @@
 
 .header__logo {
     width: 148px;
+    height: 105px;
 }
 
 .header__logo-image {
@@ -80,11 +81,11 @@
 
 .aligned-text_right {
   text-align: right;
-  margin: 20px;
+  margin: 20px 20px 0 0;
 }
 
 .cover__description {
-    padding: 0 50px 50px;
+    padding: 0 50px;
     position: relative;
     z-index: 2;
     display: flex;
@@ -96,18 +97,16 @@
     line-height: 1.27;
     text-transform: uppercase;
     color: #FFFFFF;
-    word-spacing: 19px;
+    word-spacing: 18.5px;
 }
 
 .cover__description-text {
     position: relative;
     z-index: 2;
-    margin-bottom: 50px;
 }
 
 .bet-button {
     padding: 12px 32px 11px 31px;
-    margin-bottom: 50px;
     position: relative;
     z-index: 2;
     background: transparent;
@@ -221,8 +220,7 @@
 }
 
 .about__column {
-    width: 693px;
-    height: 449px;
+    width: 100%;
 }
 
 .about__title {
