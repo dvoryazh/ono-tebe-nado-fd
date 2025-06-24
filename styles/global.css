@@ -57,7 +57,7 @@ button {
 }
 
 .cover {
-  max-height: 757px;
+  height: 757px;
   background-image: url(../images/cover.jpg);
   background-position: center;
   background-repeat: no-repeat;
