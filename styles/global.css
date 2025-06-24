@@ -39,11 +39,11 @@ button {
 }
 
 .header {
-  padding: 92px 50px 96px;  
+  padding: 92px 50px 96px;
   height: 293px;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
-  align-items: center
+  align-items: center;
 }
 
 .address {
@@ -61,7 +61,7 @@ button {
   background-image: url(../images/cover.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;  
+  background-size: cover;
   position: relative;
 }
 
