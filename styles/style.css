@@ -53,7 +53,7 @@
 }
 
 .cover__title {
-    padding: 165px 50px 106px;
+    padding: 165px 0 106px 50px;
     display: flex;
     flex-direction: column;
     position: relative;
@@ -96,7 +96,7 @@
     line-height: 1.27;
     text-transform: uppercase;
     color: #FFFFFF;
-    word-spacing: 21px;
+    word-spacing: 20px;
 }
 
 .cover__description-text {
