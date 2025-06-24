@@ -75,10 +75,12 @@
 
 .aligned-text_center {
   text-align: center;
+  margin-top: 20px;
 }
 
 .aligned-text_right {
   text-align: right;
+  margin-top: 20px;
 }
 
 .cover__description {
@@ -217,9 +219,8 @@
 }
 
 .about__column {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    width: 693px;
+    height: 449px;
 }
 
 .about__title {
