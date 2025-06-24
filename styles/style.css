@@ -80,7 +80,7 @@
 
 .aligned-text_right {
   text-align: right;
-  margin-top: 20px;
+  margin: 20px;
 }
 
 .cover__description {
@@ -96,7 +96,7 @@
     line-height: 1.27;
     text-transform: uppercase;
     color: #FFFFFF;
-    word-spacing: 20px;
+    word-spacing: 18px;
 }
 
 .cover__description-text {
