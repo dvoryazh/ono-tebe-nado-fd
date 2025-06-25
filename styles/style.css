@@ -70,7 +70,7 @@
     text-decoration: none;
 }
 
-.overlay{
+.overlay {
   position: absolute;
   inset: 0;
   background-color: rgba(0, 0, 0, 0.5);
@@ -152,7 +152,7 @@
     border: 1px solid currentColor;
 }
 
-.lots{
+.lots {
   margin-top: 180px;
   padding: 0 24px 0;
 }
@@ -240,14 +240,14 @@
     font-size: 20px;
 }
 
-.about{
+.about {
     height: auto;
     margin-top: 120px;
     padding: 0 24px;
     display: grid;
     grid-template-columns: 334px 1fr;
     align-items: start;
-    gap: 72px;
+    gap: 25px;
 }
 
 .about__logo {
@@ -289,7 +289,7 @@
     margin-top: 100px;
 }
 
-.footer{
+.footer {
   margin-top: 180px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
