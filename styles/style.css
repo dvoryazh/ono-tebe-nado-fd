@@ -87,7 +87,7 @@
 }
 
 .cover__title {
-    padding: 165px 0 106px 50px;
+    padding: 165px 0 106px;
     display: flex;
     flex-direction: column;
     position: relative;
@@ -105,11 +105,12 @@
 .aligned-text {
     display: block;
     text-align: left;
+    margin-left: 50px;
 }
 
 .aligned-text_center {
     text-align: center;
-    margin: 20px 0 0 44px;
+    margin: 20px 0 0 33px;
 }
 
 .aligned-text_right {
