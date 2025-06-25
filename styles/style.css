@@ -1,9 +1,9 @@
 .header {
-  padding: 92px 50px 96px;
-  height: auto;
-  display: grid;
-  grid-template-columns: 1fr min-content 1fr;
-  align-items: center;
+    padding: 92px 50px 96px;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr min-content 1fr;
+    align-items: center;
 }
 
 .header__menu {
@@ -42,16 +42,16 @@
 }
 
 .address {
-  max-width: 240px;
-  font-family: Raleway, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 1.35;
+    max-width: 240px;
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.35;
 }
 
 .header__address {
-  justify-self: end;
+    justify-self: end;
 }
 
 .address-list {
@@ -71,19 +71,19 @@
 }
 
 .overlay {
-  position: absolute;
-  inset: 0;
-  background-color: rgba(0, 0, 0, 0.5);
-  z-index: 1;
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
 }
 
 .cover {
-  min-height: 757px;
-  background-image: url(../images/cover.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+    min-height: 757px;
+    background-image: url(../images/cover.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 .cover__title {
@@ -103,18 +103,18 @@
 }
 
 .aligned-text {
-  display: block;
-  text-align: left;
+    display: block;
+    text-align: left;
 }
 
 .aligned-text_center {
-  text-align: center;
-  margin-top: 20px;
+    text-align: center;
+    margin-top: 20px;
 }
 
 .aligned-text_right {
-  text-align: right;
-  margin: 20px 20px 0 0;
+    text-align: right;
+    margin: 20px 20px 0 0;
 }
 
 .cover__description {
@@ -153,8 +153,8 @@
 }
 
 .lots {
-  margin-top: 180px;
-  padding: 0 24px 0;
+    margin-top: 180px;
+    padding: 0 24px 0;
 }
 
 .lots__heading {
@@ -290,11 +290,11 @@
 }
 
 .footer {
-  margin-top: 180px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  align-items: start;
-  padding: 0 50px 82px;
+    margin-top: 180px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: start;
+    padding: 0 50px 82px;
 }
 
 .footer__address {
@@ -317,9 +317,9 @@
 }
 
 .footer__menu-link {
-  font-weight: 400;
-  font-size: 18px;
-  font-family: Raleway, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: Raleway, sans-serif;
 }
 
 .footer__menu-link_active {
